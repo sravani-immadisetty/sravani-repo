@@ -16,7 +16,7 @@ def login_with_google():
     pass
 
 def login_with_github():
-    pass   
+    pass
 
 def login_with_microsoft():
     pass    
