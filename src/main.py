@@ -14,3 +14,9 @@ def login_with_facebook():
 
 def login_with_google():
     pass
+
+def login_with_github():
+    pass   
+
+def login_with_microsoft():
+    pass    
